@@ -7,3 +7,13 @@ C:\Users\andre\Desktop\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cac
 C:\Users\andre\Desktop\Dashboard\obj\Debug\Dashboard.exe
 C:\Users\andre\Desktop\Dashboard\obj\Debug\Dashboard.pdb
 C:\Users\andre\Desktop\Dashboard\obj\Debug\Dashboard.LoginForm.resources
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.DashboardForm.resources
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.LoginForm.resources
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\andre\Desktop\Dashboard\Dashboard\Dashboard-master\Dashboard\obj\Debug\Dashboard.pdb

@@ -13,6 +13,7 @@ namespace Dashboard
     public partial class DashboardForm : Form
     {
         private int childFormNumber = 0;
+        private Usuario usuarioRegistrado;
 
         public DashboardForm()
         {
@@ -111,7 +112,16 @@ namespace Dashboard
 
         private void DashboardForm_Load(object sender, EventArgs e)
         {
-
+           LoginForm loginForm = new LoginForm();
+           if( loginForm.ShowDialog()==DialogResult.OK)
+            {
+               usuarioRegistrado= loginForm.Usuario;
+                toolStripStatusLabel2.Text = usuarioRegistrado.Nombre;
+            }
+            //else
+            //{
+            //    this.Close();
+            //}
         }
 
         private void toolStripStatusLabel_Click(object sender, EventArgs e)
